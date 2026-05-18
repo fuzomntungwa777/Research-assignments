@@ -1,2 +1,2 @@
 # Research-assignments
-Data Analytics Fundamentals
+This repository contains all my research assignments
